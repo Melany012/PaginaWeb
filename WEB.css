@@ -1,0 +1,75 @@
+/* estilos.css */
+#boton1 {
+    background-color: rgb(149, 236, 131);
+    color: rgb(1, 1, 2);
+    font-family: 'Young Serif', sans-serif;
+    font-size: 20px;
+    padding: 5px 25px;
+    border: 5px solid rgb(255, 50, 50);
+    cursor: pointer;
+    position: absolute;
+    top: 110px;
+    left: 240px;
+    /*right:
+    bottom:*/
+}
+#boton2 {
+    background-color: rgb(149, 236, 131);
+    color: rgb(1, 1, 2);
+    font-family: 'Young Serif', sans-serif;
+    font-size: 20px;
+    padding: 5px 25px;
+    border: 5px solid rgb(255, 50, 50);
+    cursor: pointer;
+    position: absolute;
+    top: 110px;
+    left: 760px;
+    /*right:
+    bottom:*/
+}
+#boton3 {
+    background-color: rgb(149, 236, 131);
+    color: rgb(1, 1, 2);
+    font-family: 'Young Serif', sans-serif;
+    font-size: 20px;
+    padding: 5px 25px;
+    border: 5px solid rgb(255, 50, 50);
+    cursor: pointer;
+    position: absolute;
+    top: 110px;
+    left: 1260px;
+    /*right:
+    bottom:*/
+}
+#imagen1 {
+    position: absolute; 
+    top: 170px; 
+    left: 60px;
+}
+#imagen2 {
+    position: absolute; 
+    top: 170px; 
+    left: 575px; /* izquierda */
+}
+
+#imagen3 {
+    position: absolute; 
+    top: 170px; 
+    left: 1100px; 
+}
+#num1 {
+    position: absolute;
+    top: 98px;
+    left: 60px;
+}
+#num2 {
+    position: absolute;
+    top: 98px;
+    left: 570px;
+}
+#num3 {
+    position: absolute;
+    top: 98px;
+    left: 1100px;
+}
+
